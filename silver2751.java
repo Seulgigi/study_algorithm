@@ -1,6 +1,5 @@
 import java.util.Scanner;
 import java.util.ArrayList;
-import java.util.Collections;
 
 public class silver2751 {
 	public static void main(String[] args) {
